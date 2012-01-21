@@ -1,0 +1,5 @@
+# Sample config. Add this to your config.yml in your siri-proxy install path.
+
+    - name: 'PHP2Siri'
+      git: 'git://github.com/nightwing9695/siriproxy-php2siri.git'
+
