@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.summary     = %q{PHP to Siri communication plugin}
   s.description = %q{a plugin that allows siri to communitcate with a php file to run certain commands.}
 
-  s.rubyforge_project = "thatswhatshesaid"
+  s.rubyforge_project = "php2siri"
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- {test,spec,features}/*`.split("\n")
